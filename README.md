@@ -77,6 +77,7 @@
 - [OpenLearn - open.edu](http://www.open.edu/openlearn/free-courses/full-catalogue)
 - [Coursera - coursera.org](https://www.coursera.org/?authMode=signup)
 - [Curso em Vídeo](https://www.cursoemvideo.com/cursos/)
+- [Curso de Java](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r)
 - [Udacity - udacity.com](https://br.udacity.com/courses/all)
 - [EDX - edx.org](https://www.edx.org/)
 - [MIT Open Courseware - ocw.mit.edu](https://ocw.mit.edu/courses/)
@@ -91,6 +92,11 @@
 - [Harvard Online Courses](https://pll.harvard.edu/catalog/free)
 - [Stanford Online](https://online.stanford.edu/free-courses)
 - [FIAP](https://www.eucapacito.com.br/cursos/?_sft_parceiro_ec=fiap)
+- [Programático](https://programatico.com.br/)
+- [Paulo Feofiloff](https://www.ime.usp.br/~pf/)
+- [Ciência da Computacao](https://github.com/Universidade-Livre/ciencia-da-computacao)
+- [Git e Github na Vida Real](https://www.youtube.com/playlist?list=PLlAbYrWSYTiNqugqFFWWsgONJsmc3eMpg)
+- [Git e Github Para Iniciantes](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPA2iEiQ2PF_A9j__C4hi0A)
 
 ## Podcasts sobre tecnologia
 
@@ -106,6 +112,7 @@
 - [FalaDev](https://anchor.fm/faladev)
 - [Hipsters Ponto Tech](https://hipsters.tech/)
 - [Lambda3 Podcast](https://www.lambda3.com.br/lambda3-podcast/)
+- [Os Programadores](https://podcasters.spotify.com/pod/show/osprogramadores)
 - [Pizza de Dados](https://pizzadedados.com/)
 - [Podcast Movimento UX](http://movimentoux.com/)
 - [PodProgramar](https://podprogramar.com.br)
@@ -116,6 +123,7 @@
 - [ShopTalkShow](https://shoptalkshow.com/)
 - [Syntax.fm](https://syntax.fm/)
 - [Changelog](https://changelog.com/podcast)
+
 
 ## AudioBooks
 
@@ -146,7 +154,7 @@
 - [Google Academico](https://scholar.google.com.br/)
 - [Google Scholar Alerts](https://scholar.google.com/scholar_alerts?view_op=list_alerts&hl=en)
 - [ResearchGate](https://www.researchgate.net)
-
+- [Wikiversity](https://pt.wikiversity.org/wiki)
 ## Dados
 
 - [OECD - Dados abertos de economia e estatistica](https://data.oecd.org/)
@@ -163,6 +171,7 @@
 
 - [Mendeley](https://www.mendeley.com)
 - [ResearchGate](https://www.researchgate.net)
+- [Replit](https://replit.com/)
 
 ## Outros
 
@@ -180,5 +189,7 @@
 - [Leitura de Bolso - Livros por wpp](http://leituradebolso.com/)
 - [Zenodo](https://zenodo.org)
 - [Dryad](https://datadryad.org/stash)
+- [W3Schools - Documentação Front-End e Back-End](https://www.w3schools.com/default.asp)
+- [GUJ - Fórum brasileiro para Dev](https://www.guj.com.br/)
 
 #### Para colaborar com conteúdo basta criar uma [issue](https://github.com/anabastos/awesome-pesquisa/issues) ou mandar um [PR](https://github.com/anabastos/awesome-pesquisa/pulls)!
